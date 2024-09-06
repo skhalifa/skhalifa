@@ -37,7 +37,7 @@ As a solution architect and technical lead, I spearhead projects across various 
 ### Co-Founder & CTO | Tradvo  
 *Sep 2019 – Present*  
 Remote  
-At Tradvo, I lead the development of our automated accessibility testing platofrm and our social e-tradeshow platform, using **ReactJS**, **Laravel**,  **Django**,  **Postgress**, **MongoDB**, **Redis**, **Kafka**, **Celery**, **Docker**, **Kubernetes** and **AWS** to create a seamless, scalable experience. As the CTO, I oversee technical strategy, system architecture, and the implementation of innovative solutions to revolutionize user experiences.
+At Tradvo, I lead the development of our automated accessibility testing platofrm and our social e-tradeshow platform, using **ReactJS**, **Laravel**,  **Django**,  **Postgress**, **MongoDB**, **Redis**, **Kafka**, **Celery**, **Docker**, **Kubernetes**, **Ansible**, **Terraform** and **AWS** to create a seamless, scalable experience. As the CTO, I oversee technical strategy, system architecture, and the implementation of innovative solutions to revolutionize user experiences.
 
 ---
 
@@ -129,6 +129,8 @@ Queen's University (2012 – 2017)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
