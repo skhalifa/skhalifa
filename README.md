@@ -145,7 +145,7 @@ Queen's University (2012 – 2017)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 
 ---
-
+<!--
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skhalifa&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skhalifa&theme=onedark&hide_border=false)<br/>
@@ -157,6 +157,6 @@ Queen's University (2012 – 2017)
 ![](https://github-profile-trophy.vercel.app/?username=skhalifa&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
+-->
 [![](https://visitcount.itsvg.in/api?id=skhalifa&icon=0&color=0)](https://visitcount.itsvg.in)
 
